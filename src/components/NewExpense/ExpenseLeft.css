@@ -1,0 +1,6 @@
+.content-left{
+    width: auto;
+    height: 40rem;
+    border-radius: 0 0 0 8px;
+    background: url(blue.svg)
+}

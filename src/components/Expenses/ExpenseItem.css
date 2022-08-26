@@ -1,0 +1,54 @@
+.tickt{
+    background: rgb(1,120,188);
+    background: linear-gradient(125deg, rgba(1,120,188,1) 0%, rgba(54,154,212,1) 100%);
+    display: flex;
+    width: 25em;
+    height: 28em;
+    margin: 1.5em;
+    border-radius: 8px;
+    flex-direction:column ;
+    justify-content: center;
+    align-items: center;
+}
+.tickt .name{
+    color: white;
+    font-weight: 600;
+    font-size: 1.5em;
+}
+.tickt .mail{
+    background-color: white;
+    border-radius: 11px;
+    color: #0178BC;
+    font-weight: 500;
+    font-size: 1em;
+    padding: 0.7em;
+    width: 17em;
+    -webkit-box-shadow: inset 0px 0px 25px 0px rgba(0,0,0,0.3); 
+    box-shadow: inset 0px 0px 25px 0px rgba(0,0,0,0.3);
+
+}
+.tickt .date{
+    background-color: white;
+    border-radius: 11px;
+    color: #0178BC;
+    font-weight: 500;
+    font-size: 1em;
+    padding: 0.7em;
+    width: 17em;
+    -webkit-box-shadow: inset 0px 0px 25px 0px rgba(0,0,0,0.3); 
+    box-shadow: inset 0px 0px 25px 0px rgba(0,0,0,0.3);
+
+}
+.tickt .descr{
+    background-color: white;
+    border-radius: 11px;
+    color: #0178BC;
+    font-weight: 500;
+    font-size: 1em;
+    padding: 0.7em;
+    width: 17em;
+    height: 7em;
+    -webkit-box-shadow: inset 0px 0px 25px 0px rgba(0,0,0,0.3); 
+    box-shadow: inset 0px 0px 25px 0px rgba(0,0,0,0.3);
+
+}

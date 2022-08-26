@@ -1,0 +1,57 @@
+.content-right{
+    padding: 5em;
+
+}
+.content-right h1{
+    color: #0178BC;
+}
+.content-right p{
+    color: #212121;
+    font-weight: 300;
+    font-size: 22px;
+}
+.form-singup input{
+    color: #86868B;
+    font-size: 1em;
+    background-color: #F3F3F3;
+    margin-bottom: 1.2em;
+    border: none;
+    width: 38em;
+    padding: 10px;
+    padding-left: 20px;
+    border-radius: 6px;
+}
+.form-singup textarea{
+    color: #86868B;
+    font-size: 1em;
+    background-color: #F3F3F3;
+    margin-bottom: 1.2em;
+    border: none;
+    width: 38em;
+    padding: 10px;
+    padding-left: 20px;
+    border-radius: 6px;
+    margin-left: 5px;
+    resize: none;
+
+}
+.btn.cancel{
+    background-color: #343434;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    float: right;
+    width: 9em;
+
+
+}
+.btn.submit{
+    background-color: #0178BC;
+    color: white;
+    font-weight: 600;
+    float: right;
+    width: 9em;
+    margin-right: 5em;
+    margin-left: 1em;
+
+}
